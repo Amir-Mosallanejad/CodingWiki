@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingWiki_Web", "CodingWiki_Web\CodingWiki_Web.csproj", "{2E1AD95A-5775-4C70-856E-59C0CC6310FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingWiki_Model", "CodingWiki_Model\CodingWiki_Model.csproj", "{B5064A68-7AED-4AFF-9A26-3FF40EC8F000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingWiki_DataAccess", "CodingWiki_DataAccess\CodingWiki_DataAccess.csproj", "{F04D5A25-2E12-4D30-9754-EB50D48F5629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E1AD95A-5775-4C70-856E-59C0CC6310FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1AD95A-5775-4C70-856E-59C0CC6310FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1AD95A-5775-4C70-856E-59C0CC6310FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1AD95A-5775-4C70-856E-59C0CC6310FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5064A68-7AED-4AFF-9A26-3FF40EC8F000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5064A68-7AED-4AFF-9A26-3FF40EC8F000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5064A68-7AED-4AFF-9A26-3FF40EC8F000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5064A68-7AED-4AFF-9A26-3FF40EC8F000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04D5A25-2E12-4D30-9754-EB50D48F5629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04D5A25-2E12-4D30-9754-EB50D48F5629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04D5A25-2E12-4D30-9754-EB50D48F5629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04D5A25-2E12-4D30-9754-EB50D48F5629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
